@@ -1,177 +1,150 @@
-<div align="left-start">
+# 👋 Bonjour, je suis Sabi Gado KORA
 
-# Bonjour, je suis **Sabi Gado KORA**
+## Économiste Financier | Référent Digital | Graphiste | Développeur Web
 
-#🎨 Graphiste | 💻 Développeur Web | 🚀 Référent Digital | 📊 Économiste Financier
+Bienvenue sur mon portfolio GitHub !
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=35&fontColor=ffffff" />
-
-</div>
-
-
-# À propos de moi
-
-Je suis **Sabi Gado KORA**, économiste financier en fin de formation et **Référent Digital**.
-
-Je combine mes compétences en :
-
-🎨 Design graphique  
-💻 Développement web  
-📱 Communication digitale  
-📢 Création de contenu  
-📊 Marketing digital  
-🤖 Intelligence artificielle  
-
-Mon objectif est d'aider les entreprises, entrepreneurs et organisations à développer leur présence numérique grâce à des solutions créatives et adaptées.
+Je suis passionné par la transformation numérique, le design graphique, le développement web et la création de solutions digitales qui apportent une réelle valeur aux entreprises, organisations et entrepreneurs.
 
 ---
 
-# Mes compétences
+## À propos de moi
 
-<div align="center">
+- Étudiant en fin de Licence en Économie et Finance Internationale
+- Référent Digital (Simplon Bénin)
+- Graphiste
+- Créateur de contenu digital
+- Développeur Web Front-end
+- Gestion de projets digitaux
+- Marketing Digital
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma,photoshop,illustrator" />
+Je conçois des interfaces modernes, des identités visuelles professionnelles et des solutions web simples, performantes et adaptées aux besoins des utilisateurs.
 
-</div>
+---
 
+## Compétences
 
-# Développement Web
+### Développement Web
 - HTML5
 - CSS3
 - Responsive Design
-- Git & GitHub
+- Git
+- GitHub
 - Visual Studio Code
 
+### Design Graphique
+- Canva
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
 
-# Design & Communication
-- Création de logos
-- Identité visuelle
-- Affiches publicitaires
-- Création de contenus réseaux sociaux
-- Maquettes Figma
+### Marketing Digital
+- Création de contenu
+- Branding
+- Community Management
+- Stratégie digitale
 
-
-# Digital & Stratégie
-- Marketing digital
-- Gestion de projets agiles
+### Gestion de Projet
 - Trello
-- Outils IA
+- Gestion Agile
 
+### Intelligence Artificielle
+- ChatGPT
+- Génération d'images IA
+- Automatisation de tâches
 
 ---
 
 # Mes projets
 
-# Portfolio Personnel
+## 1. Portfolio Personnel
 
-<img align="right" width="300" src="https://github.com/TON_NOM_UTILISATEUR/portfolio/blob/main/images/apercu.png">
+Mon premier portfolio professionnel développé en HTML et CSS.
 
+### Fonctionnalités
 
-Un portfolio professionnel créé pour présenter :
+- Présentation personnelle
+- Compétences
+- Services
+- Projets
+- Certificats
+- Parcours
+- Contact
+- Design Responsive
 
-✅ Mon parcours  
-✅ Mes compétences  
-✅ Mes services  
-✅ Mes certifications  
-✅ Mes réalisations  
+### Technologies
 
+- HTML5
+- CSS3
 
-# Technologies utilisées
+### Dépôt GitHub
 
-HTML5 • CSS3 • VS Code
+https://github.com/TON_NOM_UTILISATEUR/portfolio
 
+### Démo
 
-🔗 **Voir le projet :**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/TON_NOM_UTILISATEUR/portfolio)
-
-
-<br clear="right"/>
-
-
----
-
-## 📄 Page HTML de présentation
-
-Une première réalisation permettant de pratiquer :
-
-- La structure HTML
-- Les balises sémantiques
-- L'organisation d'une page web
-
-
-Technologies :
-
-`HTML5` `CSS3`
-
+https://TON_NOM_UTILISATEUR.github.io/portfolio/
 
 ---
 
-# Certifications
+## 2. Page HTML de Présentation
 
-🏅 Informatique de base  
-🏅 Marketing Digital  
-🏅 Intelligence Artificielle  
-🏅 Référent Digital  
-🏅 Handi Secourisme  
+Une page web présentant mon profil, mes compétences et mes coordonnées.
 
+### Technologies
 
----
+- HTML5
 
-# Mon évolution
+### Dépôt GitHub
 
-```text
-2021
-│
-├── Découverte de l'informatique de base
-
-2024
-│
-├── Initiation au Handi Secourisme
-
-2026
-│
-├── Marketing Digital
-├── Intelligence Artificielle
-├── Référent Digital
-└── Développement Web
-```
-
+https://github.com/TON_NOM_UTILISATEUR/page-html-presentation
 
 ---
 
-# 📊 Statistiques GitHub
+# Projets à venir
 
-<div align="left-start">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR&layout=compact&theme=tokyonight"/>
-
-</div>
-
-
----
-
-# Contact
-
-<div align="left-start">
-
-📧 **Email :** sabigadokora@gmail.com
-
-💬 **WhatsApp :** +229 01 94 05 01 25
-
-🌍 **Bénin**
-
-</div>
-
+- Site vitrine professionnel
+- Landing Page moderne
+- Portfolio version 2
+- Dashboard HTML/CSS
+- Projet JavaScript
+- Site Responsive complet
+- Applications Web
 
 ---
 
-<div align="center">
+## Certifications
 
-# Toujours apprendre. Toujours créer. Toujours innover.
+- Informatique de base
+- Marketing Digital
+- Intelligence Artificielle
+- Référent Digital
+- Handi Secourisme
 
-Merci d'avoir visité mon profil GitHub
+---
 
-</div>
+## Objectif
+
+Mettre mes compétences au service des entreprises, ONG, institutions et entrepreneurs afin de renforcer leur présence digitale et leur communication.
+
+---
+
+## Me contacter
+
+Email :
+**sabigadokora@gmail.com**
+
+WhatsApp :
+**+229 01 94 05 01 25**
+
+---
+
+## GitHub Stats
+
+À venir...
+
+---
+
+Merci de visiter mon profil GitHub.
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration.
