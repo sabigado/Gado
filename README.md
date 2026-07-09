@@ -1,157 +1,177 @@
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
 
-# 👋 Bonjour, je suis Sabi Gado KORA
+# 👋 Bonjour, je suis **Sabi Gado KORA**
 
-## Économiste Financier | Référent Digital | Graphiste | Développeur Web
+### 🎨 Graphiste | 💻 Développeur Web | 🚀 Référent Digital | 📊 Économiste Financier
 
-Bienvenue sur mon portfolio GitHub !
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=35&fontColor=ffffff" />
 
-Je suis passionné par la transformation numérique, le design graphique, le développement web et la création de solutions digitales qui apportent une réelle valeur aux entreprises, organisations et entrepreneurs.
+</div>
 
----
 
-## À propos de moi
+## 🌟 À propos de moi
 
-- Étudiant en fin de Licence en Économie et Finance Internationale
-- Référent Digital (Simplon Bénin)
-- Graphiste
-- Créateur de contenu digital
-- Développeur Web Front-end
-- Gestion de projets digitaux
-- Marketing Digital
+Je suis **Sabi Gado KORA**, économiste financier en fin de formation et **Référent Digital**.
 
-Je conçois des interfaces modernes, des identités visuelles professionnelles et des solutions web simples, performantes et adaptées aux besoins des utilisateurs.
+Je combine mes compétences en :
+
+🎨 Design graphique  
+💻 Développement web  
+📱 Communication digitale  
+📢 Création de contenu  
+📊 Marketing digital  
+🤖 Intelligence artificielle  
+
+Mon objectif est d'aider les entreprises, entrepreneurs et organisations à développer leur présence numérique grâce à des solutions créatives et adaptées.
 
 ---
 
-## Compétences
+# 🛠️ Mes compétences
 
-### Développement Web
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma,photoshop,illustrator" />
+
+</div>
+
+
+### 💻 Développement Web
 - HTML5
 - CSS3
 - Responsive Design
-- Git
-- GitHub
+- Git & GitHub
 - Visual Studio Code
 
-### Design Graphique
-- Canva
-- Adobe Photoshop
-- Adobe Illustrator
-- Figma
 
-### Marketing Digital
-- Création de contenu
-- Branding
-- Community Management
-- Stratégie digitale
+### 🎨 Design & Communication
+- Création de logos
+- Identité visuelle
+- Affiches publicitaires
+- Création de contenus réseaux sociaux
+- Maquettes Figma
 
-### Gestion de Projet
+
+### 🚀 Digital & Stratégie
+- Marketing digital
+- Gestion de projets agiles
 - Trello
-- Gestion Agile
+- Outils IA
 
-### Intelligence Artificielle
-- ChatGPT
-- Génération d'images IA
-- Automatisation de tâches
 
 ---
 
-# Mes projets
+# 📂 Mes projets
 
-## 1. Portfolio Personnel
+## 🌐 Portfolio Personnel
 
-Mon premier portfolio professionnel développé en HTML et CSS.
+<img align="right" width="300" src="https://github.com/TON_NOM_UTILISATEUR/portfolio/blob/main/images/apercu.png">
 
-### Fonctionnalités
 
-- Présentation personnelle
-- Compétences
-- Services
-- Projets
-- Certificats
-- Parcours
-- Contact
-- Design Responsive
+Un portfolio professionnel créé pour présenter :
 
-### Technologies
+✅ Mon parcours  
+✅ Mes compétences  
+✅ Mes services  
+✅ Mes certifications  
+✅ Mes réalisations  
 
-- HTML5
-- CSS3
 
-### Dépôt GitHub
+### Technologies utilisées
 
-https://github.com/TON_NOM_UTILISATEUR/portfolio
+HTML5 • CSS3 • VS Code
 
-### Démo
 
-https://TON_NOM_UTILISATEUR.github.io/portfolio/
+🔗 **Voir le projet :**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/TON_NOM_UTILISATEUR/portfolio)
 
-## 2. Page HTML de Présentation
 
-Une page web présentant mon profil, mes compétences et mes coordonnées.
+<br clear="right"/>
 
-### Technologies
-
-- HTML5
-
-### Dépôt GitHub
-
-https://github.com/TON_NOM_UTILISATEUR/page-html-presentation
 
 ---
 
-# Projets à venir
+## 📄 Page HTML de présentation
 
-- Site vitrine professionnel
-- Landing Page moderne
-- Portfolio version 2
-- Dashboard HTML/CSS
-- Projet JavaScript
-- Site Responsive complet
-- Applications Web
+Une première réalisation permettant de pratiquer :
 
----
+- La structure HTML
+- Les balises sémantiques
+- L'organisation d'une page web
 
-## Certifications
 
-- Informatique de base
-- Marketing Digital
-- Intelligence Artificielle
-- Référent Digital
-- Handi Secourisme
+Technologies :
+
+`HTML5` `CSS3`
+
 
 ---
 
-## Objectif
+# 🎓 Certifications
 
-Mettre mes compétences au service des entreprises, ONG, institutions et entrepreneurs afin de renforcer leur présence digitale et leur communication.
+🏅 Informatique de base  
+🏅 Marketing Digital  
+🏅 Intelligence Artificielle  
+🏅 Référent Digital  
+🏅 Handi Secourisme  
 
----
-
-## Me contacter
-
-Email :
-**sabigadokora@gmail.com**
-
-WhatsApp :
-**+229 01 94 05 01 25**
 
 ---
 
-## GitHub Stats
+# 📈 Mon évolution
 
-À venir...
+```text
+2021
+│
+├── Découverte de l'informatique de base
+
+2024
+│
+├── Initiation au Handi Secourisme
+
+2026
+│
+├── Marketing Digital
+├── Intelligence Artificielle
+├── Référent Digital
+└── Développement Web
+```
+
 
 ---
 
-Merci de visiter mon profil GitHub.
+# 📊 Statistiques GitHub
 
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR&layout=compact&theme=tokyonight"/>
+
+</div>
+
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+📧 **Email :** sabigadokora@gmail.com
+
+💬 **WhatsApp :** +229 01 94 05 01 25
+
+🌍 **Bénin**
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 🚀 Toujours apprendre. Toujours créer. Toujours innover.
+
+Merci d'avoir visité mon profil GitHub ⭐
+
+</div>
