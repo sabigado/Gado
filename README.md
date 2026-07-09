@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Sabi Gado KORA
 
-## Économiste Financier | Référent Digital | Graphiste | Développeur Web
+## Graphiste et Développeur Web
 
 Bienvenue sur mon portfolio GitHub !
 
